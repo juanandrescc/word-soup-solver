@@ -6,7 +6,7 @@ row5 = "RCDSELA"
 row6 = "ZODAFJT"
 row7 = "JUANCHO"
 rows = [row1, row2, row3, row4, row5, row6, row7] #Crear una lista con una variable para cada row, segpun un n de rows, automática
-
+#Leo cambia esta mierda
 def igualpalabra(ltr,wrd, es_primero): #Otro parametro para no escoger una distinta a la primera
 #Comenzar con una sola row y considerar todas las posibilidades
     position = 0
